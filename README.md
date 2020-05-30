@@ -1,7 +1,7 @@
 ### 顺序结构
-先拿来练练手吧。每题的很简单的，花几分钟写写。
-我都把题解放在这里
-1. [苹果采购] （https://www.luogu.com.cn/problem/P5703）
+先拿来练练手吧。每题的很简单的，花几分钟写写。   
+  我都把题解放在这里。
+1. [苹果采购](https://www.luogu.com.cn/problem/P5703)
 2. [字母转换](https://www.luogu.com.cn/problem/P5704)
 3. [数字反转](https://www.luogu.com.cn/problem/P5705)
 4. [再分肥宅水](https://www.luogu.com.cn/problem/P5706)
